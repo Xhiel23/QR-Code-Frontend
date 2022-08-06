@@ -48,8 +48,11 @@ img{
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: space-between;
+    align-items: flex-start;
     padding-bottom: 1em;  
+}
+h2{
+    margin: 1em 0 0;
 }
 p{
     color: var(--gblue);
